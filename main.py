@@ -42,9 +42,6 @@ def let_integer(element):
 
 
 def model_line(line, identifier):
-    #modifica a linha de inteiros digitados pelo usuario
-    #para criar um mapa
-
     single_strings = line.split()
 
     numbers = []
